@@ -1,3 +1,3 @@
 Ola, eu sou o gibimba
 
-BAzing
+Arrumei o seu Read me.
